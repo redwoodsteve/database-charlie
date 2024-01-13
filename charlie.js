@@ -1,4 +1,4 @@
-function charlieGETIMAGES(requestCount, random){
+export function charlieGETIMAGES(requestCount, random){
     var req = new XMLHttpRequest
     req.open("GET", "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/charliedb.json")
     req.send()
