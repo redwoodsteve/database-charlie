@@ -1,9 +1,12 @@
 {
-    "tags": ["action","sleep","idle","play"],
+    "tags": ["action","sleep","idle","play","curious"],
     "imageMap": [
         {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06239.JPG", "tags": ["idle"]},
         {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06240.JPG", "tags": ["idle"]},
-        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06241.JPG", "tags": ["action","play"]},
-        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06242.JPG", "tags": ["action","play"]}
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06241.JPG", "tags": ["action"]},
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06242.JPG", "tags": ["action"]},
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06352.JPG", "tags": ["action","play"]},
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06353.JPG", "tags": ["action","play"]},
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06357.JPG", "tags": ["action","play"]}
     ]
 }
