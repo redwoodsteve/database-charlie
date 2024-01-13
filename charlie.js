@@ -19,6 +19,7 @@ const charlie = {
             }
             console.info("Loaded "+requestCount+" images of charlie")
             console.log(e)
+            return e
         }
         req.onerror = (event) => {
             console.error("Database failed to load")
