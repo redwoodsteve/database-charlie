@@ -1,0 +1,9 @@
+{
+    "tags": ["action","sleep","idle","play"], //all posible tags
+    "imageMap": [ //the mess begins
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06239.JPG", "tags": ["idle"]},
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06240.JPG", "tags": ["idle"]},
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06241.JPG", "tags": ["action","play"]},
+        {"url": "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/img/DSC06242.JPG", "tags": ["action","play"]}
+    ]
+}
