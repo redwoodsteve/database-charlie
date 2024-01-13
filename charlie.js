@@ -1,4 +1,4 @@
-charlie = {
+var charlie = {
     "getImages": function(requestCount, random){
         var req = new XMLHttpRequest
         req.open("GET", "https://raw.githubusercontent.com/redwoodsteve/database-charlie/main/charliedb.json")
